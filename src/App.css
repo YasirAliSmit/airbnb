@@ -1,0 +1,62 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Lato', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.navbar-brand{
+  margin: 23px;
+  
+}
+.logo{
+  height: 40px;
+  
+  
+}
+.parent-container-fluid{
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+  border-color: gray;
+}
+section{
+  padding: 20px;
+}
+.hero{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.hero-heading{
+  padding: 20px;
+  
+}
+.parentcard{
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.cycle{
+  height: 380px ;
+}
+.life{
+  font-size: 12px;
+}
+.from{
+  font-weight: bold;
+  font-size: 12px;
+}
+.person{
+  font-size: 12px
+  ;
+}
+.text-star{
+  font-size: 12px;
+}
+
+.sould-btn{
+  margin: 10px;
+  position: absolute;
+  height: 30px;
+  
+}
